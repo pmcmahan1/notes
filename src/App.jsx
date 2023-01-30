@@ -1,11 +1,12 @@
-import React, { useState, useEffect } from 'react'
+import { useState } from 'react'
 import './App.css'
 
-function App() {
+export default function App() {
+  // code here
 
   return (
-    <div>Hello world</div>
+    <div>Hey!</div>
   )
 }
 
-export default App
+
